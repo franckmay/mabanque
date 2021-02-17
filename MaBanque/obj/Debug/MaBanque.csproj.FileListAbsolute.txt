@@ -1,0 +1,17 @@
+c:\users\sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\bin\Debug\MaBanque.exe.config
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\bin\Debug\MaBanque.exe
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\bin\Debug\MaBanque.pdb
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.csprojResolveAssemblyReference.cache
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.Properties.Resources.resources
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.csproj.GenerateResource.Cache
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.exe
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.pdb
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.welcome.resources
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.Dashboard.resources
+C:\Users\Sadjang\Documents\Visual Studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.Operation.resources
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\bin\Debug\MySql.Data.dll
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.Splash.resources
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.Inscrire.resources
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.home.resources
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.CompteInformation.resources
+C:\Users\Sadjang\documents\visual studio 2015\Projects\MaBanque\MaBanque\obj\Debug\MaBanque.vue.UcTransaction.resources
